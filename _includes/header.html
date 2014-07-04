@@ -31,7 +31,7 @@
               {% assign homeactive = 'active' %}
             {% endif %}
             <li class="{{ homeactive }} "><a href="/">Home</a></li>
-            {% if page.url contains "/201" %}
+            {% if page.url contains "/201" or  page.url == "/blog/"%}
               {% assign blogactive = 'active' %}
             {% endif %}
             <li class="dropdown {{ blogactive }} ">
