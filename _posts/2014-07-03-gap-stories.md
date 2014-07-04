@@ -49,9 +49,9 @@ Why does the above matter? Why are we even discussing this? Dollar Cost is ideal
 
     [Could We: <Suggestions>]
 
-Everyone involved in product development should be able to contribute to solutions and this section allows for solution hypotheses. "Could We" underlines that this is a suggestion not an order. A very useful word when completing this section is "or" - sometimes just the process of suggesting and discussing different, competing, solutions leads to a better eventual outcome.
+Everyone involved in product development should be able to contribute to solutions and this section allows for solution hypotheses. "Could We" underlines that this is a suggestion not an order. A very useful word when completing this section is "or" - sometimes just the process of suggesting and discussing different, competing, solutions leads to a better eventual outcome. This clause is optional.
 
-#### So that's it.
+#### So that's it. GaP Stories.
 
     As a: <Persona>
     I Can't: <Gap/Problem>
