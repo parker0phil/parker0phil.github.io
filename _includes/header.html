@@ -39,10 +39,11 @@
                     Blog <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
-{% for post in site.posts %}
+{% for post in site.posts | limit 5 %}
 
                     <li><a href="{{ post.url}}">{{ post.title }}</a></li>
 {% endfor %}
+                    <li><a href="/blog/">&raquo; All posts</a></li>
                 </ul>
             </li>
         </ul>

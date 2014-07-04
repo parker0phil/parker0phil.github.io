@@ -8,6 +8,7 @@ layout: default
 #### [GaP Stories](/2014/07/03/gap-stories/)
 > User Stories are great, but they still have a habit of degrading into a list of demands. 'GaP Stories' are a format for writing User Stories which intends to focus on problems rather than solutions.
 > [Read more](/2014/07/03/gap-stories/)
+
 ### Conferences/Events
 
 #### Planned (Hopefully!)

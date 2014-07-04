@@ -2,7 +2,6 @@
 layout: post
 title: GaP Stories
 ---
-## GaP Stories {{ title }}
 > I've talked about this technique informally at a few conferences but never got round to writing it up (thanks [@anthonycgreen](https://twitter.com/anthonycgreen) for giving me the final push!)
 
 
@@ -41,7 +40,7 @@ My rule is that the only "thing" you can use in this section is a published [Per
 
     I Can't: <Gap/Problem>
 
-What is the need? What do we think we are unable to achieve with the system in it's current state. What's missing or what could we be doing better.  This is the clause that discourages feature requests and encourages describing a need.
+What is the need? What do we think we are unable to achieve with the system in it's current state? What's missing or what could we be doing better? This is the clause that discourages feature requests and encourages describing a need.
 
     Therefore: <Impact>
 
