@@ -5,9 +5,9 @@ layout: default
 
 ### Recent Blog Posts [- See All](/blog/)
 
-#### [GaP Stories](/2014/07/03/gap-stories/)
-> User Stories are great, but they still have a habit of degrading into a list of demands. 'GaP Stories' are a format for writing User Stories which intends to focus on problems rather than solutions.
-> [Read more](/2014/07/03/gap-stories/)
+#### [Architecture 101 + Domain Alignment](/2014/09/04/architecture-101+domain-alignment/)
+> Everyone knows that architecture is just “box drawing” so today I’ll just talk about boxes...
+> [Read more](/2014/09/04/architecture-101+domain-alignment/)
 
 ### Conferences/Events
 
