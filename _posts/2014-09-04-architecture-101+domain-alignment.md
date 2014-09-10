@@ -4,6 +4,9 @@ title: Architecture 101 + Domain Alignment
 ---
 > This is the outline of a "Lighting talk of two parts" delivered at [Agile on the Beach 2014 (#agileotb)](http://agileonthebeach.com/2014-2/)
 
+> UPDATE: [Video is now online](http://echo.falmouth.ac.uk:8080/ess/echo/presentation/76f54723-8e47-4739-83e2-b091930bb4da)
+> This talk starts at 23:30 (but please watch them all!)
+
 # Part 1 -  Agile 101
 
 Everyone knows that architecture is just "box drawing" so today I'll just talk about boxes (forget contexts, components, containers, modules, classes, packages etc).
