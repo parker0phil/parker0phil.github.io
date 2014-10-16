@@ -13,7 +13,7 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- November, 2014 [XPDay 2014](http://xpday.wordpress.com/)
+- 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/)
 - April, 2015 [Pipeline 2015](http://web.pipelineconf.info/)
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
