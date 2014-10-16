@@ -98,6 +98,12 @@ Contract failures:
 - ```422 UNPROCESSABLE ENTITY``` = Request matched and met syntactic contract but validation failed
 - ```404 NOT FOUND``` = Request matched contract but stateful entity  (or ```410 GONE``` if you know a resource instance has been deleted)
 
-The great thing about this is you get to use `422` which is my favourite [Http Status Dog](http://httpstatusdogs.com/)
+Other useful 4xx codes:
+
+- ```409 CONFLICT``` = When a PUT is used to an identifier that already exists or a POST (creation or update) breaks a unique constraint
+- ```429 TOO MANY REQUESTS``` = When a throttling limit has been hit
+
+
+The great thing about this approach is you get to use my favourite [HTTP Status Dog](http://httpstatusdogs.com/)
 
 ![](/img/posts/4xx-status-codes/unprocessable-entity.jpg)
