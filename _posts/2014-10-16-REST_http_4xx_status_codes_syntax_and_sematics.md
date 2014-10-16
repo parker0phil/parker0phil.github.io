@@ -96,7 +96,7 @@ Contract failures:
 "Dynamic/Runtime" failures:
 
 - ```422 UNPROCESSABLE ENTITY``` = Request matched and met syntactic contract but validation failed
-- ```404 NOT FOUND``` = Request matched contract but stateful entity  (or ```409 GONE``` if you know a resource instance has been deleted)
+- ```404 NOT FOUND``` = Request matched contract but stateful entity  (or ```410 GONE``` if you know a resource instance has been deleted)
 
 The great thing about this is you get to use `422` which is my favourite [Http Status Dog](http://httpstatusdogs.com/)
 
