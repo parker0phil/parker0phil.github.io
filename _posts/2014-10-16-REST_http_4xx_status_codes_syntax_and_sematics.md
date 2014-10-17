@@ -9,13 +9,12 @@ The [Hypertext Transfer Protocol rfc(2616) states](http://tools.ietf.org/html/rf
 
 ## Contractual Obligations
 
-Let's look at a couple of scenarios that illustrate what I see as an annoying gap in convention for how to handle this class of error.
+Let's look at a couple of scenarios which illustrate what I see as an annoying gap in convention for how to handle this class of error.
 
 > __400 Bad Request__ The request could not be understood by the server due to malformed syntax. The client SHOULD NOT repeat the request without modifications.
 
 - GIVEN: The server has an "endpoint" ```POST /user```
-- AND: Expects a json entity
-```{ "username" : <at least 12 characters> } ```
+- AND: Expects a json entity ```{ "username" : <at least 12 characters> } ```
 - WHEN: Client requests ```POST /user```
 - AND: Includes the JSON entity ```{ "usernam" : "this_is_long_enough" }``` (notice the json key)
 - THEN: Server responds with ```400 BAD REQUEST ```
@@ -23,7 +22,7 @@ Let's look at a couple of scenarios that illustrate what I see as an annoying ga
 Compared to (assuming the same GIVEN, AND)
 
 - WHEN: Client requests ```POST /user```
-- AND: Includes the JSON entity ```{ "username" : "tooshort" }
+- AND: Includes the JSON entity ```{ "username" : "tooshort" }```
 - THEN: Server responds with ```400 BAD REQUEST```
 
 The first example (where the username field name was misspelt) you could think of as a "psuedo-compile" error (e.g. it could be found through a sufficiently advanced static analysis tool).
@@ -96,7 +95,7 @@ Contract failures:
 "Dynamic/Runtime" failures:
 
 - ```422 UNPROCESSABLE ENTITY``` = Request matched and met syntactic contract but validation failed
-- ```404 NOT FOUND``` = Request matched contract but stateful entity  (or ```410 GONE``` if you know a resource instance has been deleted)
+- ```404 NOT FOUND``` = Request matched contract but stateful entity  (or ```410 GONE``` if you know a resource instance has been deleted the id will never be reused)
 
 Other useful 4xx codes:
 
