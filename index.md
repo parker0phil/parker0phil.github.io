@@ -13,7 +13,7 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- April, 2015 [Pipeline 2015](http://web.pipelineconf.info/) - Planning to [submit a talk](http://web.pipelineconf.info/submit-a-proposal/)
+- 19 March, 2015 [Pipeline 2015](http://web.pipelineconf.info/) - Planning to [submit a talk](http://web.pipelineconf.info/submit-a-proposal/)
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
