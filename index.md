@@ -13,13 +13,13 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/)
-- April, 2015 [Pipeline 2015](http://web.pipelineconf.info/)
+- April, 2015 [Pipeline 2015](http://web.pipelineconf.info/) - Planning to [submit a talk](http://web.pipelineconf.info/submit-a-proposal/)
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
 #### Past
 
+- 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/) - Attendee + Lightning Talk
 - 4-5 September, 2014 [Agile on the Beach](http://agileonthebeach.com/) - Attendee + [Lightning Talk](/2014/09/04/architecture-101+domain-alignment/)
 - 9 April, 2014 [Pipeline 2014](http://web.pipelineconf.info/) - Attendee
 - 25-26 November, 2013 [XPDay 2013](http://xpday.wordpress.com/) - Open Space Facilitator
