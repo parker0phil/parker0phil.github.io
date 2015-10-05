@@ -3,22 +3,19 @@ title: Phil Parker
 layout: default
 ---
 
-### Recent Blog Posts [- See All](/blog/)
-
-#### [Architecture 101 + Domain Alignment](/2014/09/04/architecture-101+domain-alignment/)
-> Everyone knows that architecture is just “box drawing” so today I’ll just talk about boxes...
-> [Read more](/2014/09/04/architecture-101+domain-alignment/)
-
 ### Conferences/Events
 
 #### Planned (Hopefully!)
 
-- 19 March, 2015 [Pipeline 2015](http://web.pipelineconf.info/) - Planning to [submit a talk](http://web.pipelineconf.info/submit-a-proposal/)
+- 22 October, 2015 [DevSecCon](https://www.devseccon.com/)
+- 23 March, 2016 [Pipeline 2016](http://web.pipelineconf.info/)
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
 #### Past
 
+- 16-18 September, 2015 [GOTO London](http://gotocon.com/goto-london-2015/)
+- 19 March, 2015 [Pipeline 2015](http://web.pipelineconf.info/2015-event/) 
 - 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/) - Attendee + Lightning Talk
 - 4-5 September, 2014 [Agile on the Beach](http://agileonthebeach.com/) - Attendee + [Lightning Talk](/2014/09/04/architecture-101+domain-alignment/)
 - 9 April, 2014 [Pipeline 2014](http://web.pipelineconf.info/2014-event/) - Attendee
