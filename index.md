@@ -3,6 +3,12 @@ title: Phil Parker
 layout: default
 ---
 
+### Recent Blog Posts [- See All](/blog/)
+
+#### [Navigating at speed](2015/10/22/navigating/)
+> I've never liked the term **Sprint**. It brings to mind an individual figure puffing and panting...
+> [Read more](2015/10/22/navigating/)
+
 ### Conferences/Events
 
 #### Planned (Hopefully!)
