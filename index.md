@@ -7,13 +7,15 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- 22 October, 2015 [DevSecCon](https://www.devseccon.com/)
+- 13 November, 2015 [Ethereum DevCon](https://devcon.ethereum.org/)
 - 23 March, 2016 [Pipeline 2016](http://web.pipelineconf.info/)
+- 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/)
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
 #### Past
 
+- 22 October, 2015 [DevSecCon](https://www.devseccon.com/)
 - 16-18 September, 2015 [GOTO London](http://gotocon.com/goto-london-2015/)
 - 19 March, 2015 [Pipeline 2015](http://web.pipelineconf.info/2015-event/) 
 - 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/) - Attendee + Lightning Talk
