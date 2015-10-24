@@ -13,7 +13,7 @@ It occurred to me recently (and I'm sure I'm not the first) that there is a bett
 
 Many special forces teams do something called a [Loaded March](https://en.wikipedia.org/wiki/Loaded_march). This is an activity where a team has to move a certain amount of weight (both personal bergens and shared weights such as stretchers, ammo boxes, communications equipment, food and medical supplies) to a provided destination.  The march is intended to be carried out at pace but the expectation is that teams should finish together. Whilst the destination is provided, the route is not. 
 
-The teams that tend to succeed in these tasks proceed briskly but steadily, they have a regular cadence of route checking (reacting to terrain and changes in weather) and they collborate (for example someone carrying two personal packs to free up someone for shared kit).
+The teams that tend to succeed in these tasks proceed briskly but steadily, they have a regular cadence of route checking (reacting to terrain and changes in weather) and they collaborate (for example someone carrying two personal packs to free up someone for shared kit).
 
 So maybe in your next retrospective you should discuss:
 
