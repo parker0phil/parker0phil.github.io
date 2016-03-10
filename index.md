@@ -15,13 +15,14 @@ layout: default
 
 
 - 23 March, 2016 [Pipeline 2016](http://web.pipelineconf.info/) - Attendee/Sponsor
-- 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches 
+- 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches
+- 20-21 June, 2016 [Agile Australia](http://agileaustralia.com.au/) - Submitted Proposal: Real-world Agile: Tricks, Traps and Tales from the Trenches
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
 #### Past
 
-- 23-25 February, 2016 [Digital Transformation +](http://www.digitaltransformationplus.com/conference-day-one---february-24th-2016-agendaday) - Speaker/Panel member: More Transformation, Less Disruption
+- 23-25 February, 2016 [Digital Transformation +](http://www.digitaltransformationplus.com/conference-day-one---february-24th-2016-agendaday) - Speaker/Panel member: [More Transformation, Less Disruption](http://www.cxnetwork.com/cx-digital/videos/how-do-bbc-and-merlin-entertainments-make-the-most/)
 - 28 January, 2016 [London CTOs meetup](http://www.meetup.com/LondonCTOs/) - Speaker: What is digital?
 - 13 November, 2015 [Ethereum DevCon](https://devcon.ethereum.org/)
 - 22 October, 2015 [DevSecCon](https://www.devseccon.com/)
