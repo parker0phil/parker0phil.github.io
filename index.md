@@ -17,8 +17,8 @@ layout: default
 - 26 April 2016 [Graph Connect Europe](http://graphconnect.com) - Attendee
 - 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches
 - 23 May [London Continuous Delivery](http://www.meetup.com/London-Continuous-Delivery/events/228002697/) - Speaker: Continuous Security
+- 1-2 Sept, 2016 [Agile on the Beach](http://agileonthebeach.com/) - Attendee
 - 17 Nov, 2016 **Digital:Naked - Disruptors and Enablers** - Speaker: TBC
-- 1-2 Sept, 2016 [Agile on the Beach](http://agileonthebeach.com/) - Submitted Proposal
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
