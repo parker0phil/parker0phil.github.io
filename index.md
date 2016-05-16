@@ -5,9 +5,9 @@ layout: default
 
 ### Recent Blog Posts [- See All](/blog/)
 
-#### [Navigating at speed](2015/10/22/navigating/)
-> I've never liked the term **Sprint**. It brings to mind an individual figure puffing and panting...
-> [Read more](2015/10/22/navigating/)
+#### [The Kano Method and MVPs - at Agile Manchester](2016/05/16/kano-and-mvp/)
+> The method works by classifying features into categories... and seems to be a pretty good way of understanding which features might fit the bill.
+> [Read more](2016/05/16/kano-and-mvp/)
 
 ### Conferences/Events
 
