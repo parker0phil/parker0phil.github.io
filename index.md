@@ -25,7 +25,7 @@ layout: default
 
 #### Past
 
-- 23 May [London Continuous Delivery](https://vimeo.com/168470076) [Slides](http://www.slideshare.net/EqualExperts/continuous-security) - Speaker: Continuous Security
+- 23 May [London Continuous Delivery](https://vimeo.com/168470076) - [(Slides)](http://www.slideshare.net/EqualExperts/continuous-security) - Speaker: Continuous Security
 - 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches
 - 26 April 2016 [Graph Connect Europe](http://graphconnect.com)
 - 30 March, 2016 [ExpertTalks (by the Sea!)](http://www.meetup.com/Expert-Talks/events/229575362/) - Speaker: Real-world Agile (The Ceremonies...)
