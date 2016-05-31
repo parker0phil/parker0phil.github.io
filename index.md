@@ -15,9 +15,8 @@ layout: default
 
 
 
-- 23 May [London Continuous Delivery](http://www.meetup.com/London-Continuous-Delivery/events/228002697/) - Speaker: Continuous Security
-- 16-17 June [Agile in the City - London](http://agileinthecity.net/2016/london/)
-- 10 Aug [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches
+- 16-17 June [Agile in the City - London](http://agileinthecity.net/2016/london/sessions/index.php?session=500) - Speaker: Real-world Agile
+- 10 Aug [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
 - 1-2 Sept [Agile on the Beach](http://agileonthebeach.com/)
 - 3-4 Nov [Agile in the City - Bristol](http://agileinthecity.net/2016/bristol/)
 - 17 Nov **Digital:Naked - Disruptors and Enablers** - Speaker: TBC
@@ -26,6 +25,7 @@ layout: default
 
 #### Past
 
+- 23 May [London Continuous Delivery](https://vimeo.com/168470076) [Slides](http://www.slideshare.net/EqualExperts/continuous-security) - Speaker: Continuous Security
 - 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches
 - 26 April 2016 [Graph Connect Europe](http://graphconnect.com)
 - 30 March, 2016 [ExpertTalks (by the Sea!)](http://www.meetup.com/Expert-Talks/events/229575362/) - Speaker: Real-world Agile (The Ceremonies...)
