@@ -25,19 +25,19 @@ layout: default
 
 #### Past
 
-- 23 May [London Continuous Delivery](https://vimeo.com/168470076) - [(Slides)](http://www.slideshare.net/EqualExperts/continuous-security) - Speaker: Continuous Security
+- 23 May [London Continuous Delivery](http://www.meetup.com/London-Continuous-Delivery/events/228002697/) - [Speaker: Continuous Security](https://vimeo.com/168470076) - [(Slides)](http://www.slideshare.net/EqualExperts/continuous-security)
 - 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches
 - 26 April 2016 [Graph Connect Europe](http://graphconnect.com)
 - 30 March, 2016 [ExpertTalks (by the Sea!)](http://www.meetup.com/Expert-Talks/events/229575362/) - Speaker: Real-world Agile (The Ceremonies...)
-- 23 March, 2016 [Pipeline 2016](http://web.pipelineconf.info/) - Attendee/Sponsor
+- 23 March, 2016 [Pipeline 2016](http://web.pipelineconf.info/) - Sponsor
 - 23-25 February, 2016 [Digital Transformation +](http://www.digitaltransformationplus.com/conference-day-one---february-24th-2016-agendaday) - Speaker/Panel member: [More Transformation, Less Disruption](http://www.cxnetwork.com/cx-digital/videos/how-do-bbc-and-merlin-entertainments-make-the-most/)
 - 28 January, 2016 [London CTOs meetup](http://www.meetup.com/LondonCTOs/) - Speaker: What is digital?
 - 13 November, 2015 [Ethereum DevCon](https://devcon.ethereum.org/)
 - 22 October, 2015 [DevSecCon](https://www.devseccon.com/)
 - 16-18 September, 2015 [GOTO London](http://gotocon.com/goto-london-2015/)
 - 19 March, 2015 [Pipeline 2015](http://web.pipelineconf.info/2015-event/) 
-- 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/) - Attendee + Lightning Talk
-- 4-5 September, 2014 [Agile on the Beach](http://agileonthebeach.com/) - Attendee + [Lightning Talk](/2014/09/04/architecture-101+domain-alignment/)
+- 1-2 December, 2014 [XPDay 2014](http://xpday.wordpress.com/) - Lightning Talk
+- 4-5 September, 2014 [Agile on the Beach](http://agileonthebeach.com/) - [Lightning Talk - Architecture 101 & Domain Alignment](/2014/09/04/architecture-101+domain-alignment/)
 - 9 April, 2014 [Pipeline 2014](http://web.pipelineconf.info/2014-event/)
 - 25-26 November, 2013 [XPDay 2013](http://xpday.wordpress.com/) - Open Space Facilitator
 - 25 October, 2013 [Software Craftsmanship 2013](http://www.codemanship.co.uk/softwarecraftsmanship/) - Speaker: [Swiss Cheese Project](http://about.swisscheeseproject.com/sc2013.html)
