@@ -19,7 +19,7 @@ layout: default
 - 10 Aug [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
 - 1-2 Sept [Agile on the Beach](http://agileonthebeach.com/)
 - 3-4 Nov [Agile in the City - Bristol](http://agileinthecity.net/2016/bristol/)
-- 17 Nov **Digital:Naked - Disruptors and Enablers** - Speaker: TBC
+- 17 Nov **knowing:digital - Disruptors and Enablers** - Speaker: TBC
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to talk)
 
