@@ -9,7 +9,7 @@ layout: default
 > The method works by classifying features into categories... and seems to be a pretty good way of understanding which features might fit the bill.
 > [Read more](2016/05/16/kano-and-mvp/)
 
-### Speaking and Conferences/EVents
+### Speaking and Conferences/Events
 
 #### Planned (Hopefully!)
 
