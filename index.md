@@ -13,7 +13,6 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- 10 Aug [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
 - ~~01 Oct ~~[Codemotion - Dublin](http://dublin2016.codemotionworld.com/) - Speaker: Continuous Security~~ - Conference postponed :o(
 - 17 Nov [knowing:digital - Disruptors and Enablers](https://knowing.digital) - Speaker: Does Security Really Matter?
 
@@ -21,6 +20,7 @@ layout: default
 
 #### Past
 
+- 10 Aug [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
 - 23 May **Equal Experts Internal Event** - [Speaker: Real-world Agile](https://www.youtube.com/watch?v=UpCe-YWBGas)
 - 16-17 June [Agile in the City - London](http://agileinthecity.net/2016/london/sessions/index.php?session=500) - Speaker: Real-world Agile - [(Slides)](http://www.slideshare.net/EqualExperts/real-world-agile-at-agile-in-the-city-london)
 - 23 May [London Continuous Delivery](http://www.meetup.com/London-Continuous-Delivery/events/228002697/) - [Speaker: Continuous Security](https://vimeo.com/168470076) - [(Slides)](http://www.slideshare.net/EqualExperts/continuous-security)
