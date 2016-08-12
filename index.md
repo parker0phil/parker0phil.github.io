@@ -14,7 +14,7 @@ layout: default
 #### Planned (Hopefully!)
 
 - 10 Aug [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
-- 01 Oct [Codemotion - Dublin](http://dublin2016.codemotionworld.com/) - Speaker: Continuous Security
+- ~~01 Oct ~~[Codemotion - Dublin](http://dublin2016.codemotionworld.com/) - Speaker: Continuous Security~~ - Conference postponed :o(
 - 17 Nov [knowing:digital - Disruptors and Enablers](https://knowing.digital) - Speaker: Does Security Really Matter?
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
