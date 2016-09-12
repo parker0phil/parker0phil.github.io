@@ -13,8 +13,9 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- 12-13 September [Swansea Con](http://swanseacon.co.uk/) - running Rubber Duck Clinic!
+- 12-13 September [Swansea Con](http://swanseacon.co.uk/) - Speaker: Continuous Security + running [Rubber Duck Clinic](https://twitter.com/SwanseaCon/status/771275200918855680)!
 - ~~01 October ~~[Codemotion - Dublin](http://dublin2016.codemotionworld.com/) - Speaker: Continuous Security~~ - Conference postponed :o(
+- 5 November [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
 - 17 November [knowing:digital - Disruptors and Enablers](https://knowing.digital) - Speaker: Does Security Really Matter?
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
