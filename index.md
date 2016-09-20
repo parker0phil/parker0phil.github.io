@@ -17,7 +17,7 @@ layout: default
 - 20 October [DevSecCon](http://www.devseccon.com/) - Sponsor
 - 5 November [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
 - 17 November [knowing:digital - Disruptors and Enablers](https://knowing.digital) - Speaker: Does Security Really Matter?
-- TBC January *Expert Talks - New York* - Speaker: Continuous Security
+- TBC January **Expert Talks - New York** - Speaker: Continuous Security
 - TBC January [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
