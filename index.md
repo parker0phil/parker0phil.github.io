@@ -13,15 +13,18 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- 12-13 September [Swansea Con](http://swanseacon.co.uk/) - Speaker: Continuous Security + running [Rubber Duck Clinic](https://twitter.com/SwanseaCon/status/771275200918855680)!
 - ~~01 October ~~[Codemotion - Dublin](http://dublin2016.codemotionworld.com/) - Speaker: Continuous Security~~ - Conference postponed :o(
+- 20 October [DevSecCon](http://www.devseccon.com/) - Sponsor
 - 5 November [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
 - 17 November [knowing:digital - Disruptors and Enablers](https://knowing.digital) - Speaker: Does Security Really Matter?
+- TBC January *Expert Talks - New York* - Speaker: Continuous Security
+- TBC January [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
 
 #### Past
 
+- 12-13 September [Swansea Con](http://swanseacon.co.uk/) - Speaker: Continuous Security + running [Rubber Duck Clinic](https://twitter.com/SwanseaCon/status/771275200918855680)!
 - 10 August [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
 - 23 May **Equal Experts Internal Event** - [Speaker: Real-world Agile](https://www.youtube.com/watch?v=UpCe-YWBGas)
 - 16-17 June [Agile in the City - London](http://agileinthecity.net/2016/london/sessions/index.php?session=500) - Speaker: Real-world Agile - [(Slides)](http://www.slideshare.net/EqualExperts/real-world-agile-at-agile-in-the-city-london)
