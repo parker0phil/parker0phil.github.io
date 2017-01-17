@@ -13,18 +13,18 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- ~~01 October ~~[Codemotion - Dublin](http://dublin2016.codemotionworld.com/) - Speaker: Continuous Security~~ - Conference postponed :o(
-- 20 October [DevSecCon](http://www.devseccon.com/) - Sponsor
-- 5 November [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
-- 17 November [knowing:digital - Disruptors and Enablers](https://knowing.digital) - Speaker: Does Security Really Matter?
-- TBC January **Expert Talks - New York** - Speaker: Continuous Security
-- TBC January [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
+- 19 January [Expert Talks - Leeds](https://www.meetup.com/Expert-Talks-Leeds/events/236134849/) - Speaker: Real-world Agile
+- 20 January [Pub Conf London](https://pubconf.io/events/2017/london.html) - Sponsor
+- 26 January [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
+- 31 January [Expert Talks - Pune](https://www.meetup.com/expert-talks-pune/events/236986457/) - Speaker: Organising for Continuous Delivery
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
 
 #### Past
 
+- 20 October [DevSecCon](http://www.devseccon.com/) - Sponsor
 - 12-13 September [Swansea Con](http://swanseacon.co.uk/) - Speaker: Continuous Security + running [Rubber Duck Clinic](https://twitter.com/SwanseaCon/status/771275200918855680)!
+- 5 November [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
 - 10 August [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
 - 23 May **Equal Experts Internal Event** - [Speaker: Real-world Agile](https://www.youtube.com/watch?v=UpCe-YWBGas)
 - 16-17 June [Agile in the City - London](http://agileinthecity.net/2016/london/sessions/index.php?session=500) - Speaker: Real-world Agile - [(Slides)](http://www.slideshare.net/EqualExperts/real-world-agile-at-agile-in-the-city-london)
