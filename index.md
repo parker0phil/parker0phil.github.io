@@ -13,22 +13,23 @@ layout: default
 
 #### Planned (Hopefully!)
 
-- 19 January [Expert Talks - Leeds](https://www.meetup.com/Expert-Talks-Leeds/events/236134849/) - Speaker: Real-world Agile
-- 20 January [Pub Conf London](https://pubconf.io/events/2017/london.html) - Sponsor
-- 26 January [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
-- 31 January [Expert Talks - Pune](https://www.meetup.com/expert-talks-pune/events/236986457/) - Speaker: Organising for Continuous Delivery
+- 19 January, 2017 [Expert Talks - Leeds](https://www.meetup.com/Expert-Talks-Leeds/events/236134849/) - Speaker: Real-world Agile
+- 20 January, 2017 [Pub Conf London](https://pubconf.io/events/2017/london.html) - Sponsor
+- 26 January, 2017 [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
+- 31 January, 2017 [Expert Talks - Pune](https://www.meetup.com/expert-talks-pune/events/236986457/) - Speaker: Organising for Continuous Delivery
+- 11 May, 2017 [Women of Silicon Roundabout](http://www.women-in-technology.com/) - Sponsor
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
 
 #### Past
 
-- 20 October [DevSecCon](http://www.devseccon.com/) - Sponsor
-- 12-13 September [Swansea Con](http://swanseacon.co.uk/) - Speaker: Continuous Security + running [Rubber Duck Clinic](https://twitter.com/SwanseaCon/status/771275200918855680)!
-- 5 November [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
-- 10 August [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
-- 23 May **Equal Experts Internal Event** - [Speaker: Real-world Agile](https://www.youtube.com/watch?v=UpCe-YWBGas)
-- 16-17 June [Agile in the City - London](http://agileinthecity.net/2016/london/sessions/index.php?session=500) - Speaker: Real-world Agile - [(Slides)](http://www.slideshare.net/EqualExperts/real-world-agile-at-agile-in-the-city-london)
-- 23 May [London Continuous Delivery](http://www.meetup.com/London-Continuous-Delivery/events/228002697/) - [Speaker: Continuous Security](https://vimeo.com/168470076) - [(Slides)](http://www.slideshare.net/EqualExperts/continuous-security)
+- 20 October, 2016 [DevSecCon](http://www.devseccon.com/) - Sponsor
+- 12-13 September, 2016 [Swansea Con](http://swanseacon.co.uk/) - Speaker: Continuous Security + running [Rubber Duck Clinic](https://twitter.com/SwanseaCon/status/771275200918855680)!
+- 5 November, 2016 [Expert Talks - Pune](http://expert-talks.in/) - Speaker: Real-world Agile
+- 10 August, 2016 [Cambridge DDD Nights](http://www.meetup.com/CambridgeDDDNights/events/231093059/) - Speaker: Real-world Agile
+- 23 May, 2016 **Equal Experts Internal Event** - [Speaker: Real-world Agile](https://www.youtube.com/watch?v=UpCe-YWBGas)
+- 16-17 Jun, 2016 [Agile in the City - London](http://agileinthecity.net/2016/london/sessions/index.php?session=500) - Speaker: Real-world Agile - [(Slides)](http://www.slideshare.net/EqualExperts/real-world-agile-at-agile-in-the-city-london)
+- 23 May, 2016 [London Continuous Delivery](http://www.meetup.com/London-Continuous-Delivery/events/228002697/) - [Speaker: Continuous Security](https://vimeo.com/168470076) - [(Slides)](http://www.slideshare.net/EqualExperts/continuous-security)
 - 11-13 May, 2016 [Agile Manchester](http://agilemanchester.net/2016/sessions/index.php?session=503) - Speaker: Real-world Agile: Tricks, Traps and Tales from the Trenches - [(Slides)](http://www.slideshare.net/EqualExperts/realworld-agile-tricks-traps-and-tales-from-the-trenches)
 - 26 April 2016 [Graph Connect Europe](http://graphconnect.com)
 - 30 March, 2016 [ExpertTalks (by the Sea!)](http://www.meetup.com/Expert-Talks/events/229575362/) - Speaker: Real-world Agile (The Ceremonies...)
