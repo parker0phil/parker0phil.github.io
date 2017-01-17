@@ -17,7 +17,7 @@ layout: default
 - 20 January, 2017 [Pub Conf London](https://pubconf.io/events/2017/london.html) - Sponsor
 - 26 January, 2017 [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/events/229037034/) - Speaker: Real-world Agile
 - 31 January, 2017 [Expert Talks - Pune](https://www.meetup.com/expert-talks-pune/events/236986457/) - Speaker: Organising for Continuous Delivery
-- 11 May, 2017 [Women of Silicon Roundabout](http://www.women-in-technology.com/) - Sponsor
+- 11 May, 2017 [Women of Silicon Roundabout](http://www.women-in-technology.com/)
 
 > Let me know if there is anywhere else you think I should be (and particularly if there is anywhere you would like me to speak)
 
